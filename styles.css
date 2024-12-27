@@ -1,0 +1,18 @@
+h1{
+    margin: 50px;
+    border: 2px solid red;
+    padding: 60px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+
+}
+div{
+    margin: auto;
+    border: 3px dashed blue;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    
+}
